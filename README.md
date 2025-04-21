@@ -5,7 +5,13 @@ Project ini adalah Automated testing untuk website Saucedemo.com dengan mengguna
 dengan pendekatan Behavior-Driven Development(BDD)
 
 # Cara Menjalankan
-- Clone Repository
+## 1. Clone Repository
+https://github.com/adit1523/UjianMinggu-4
+## 2. Masuk Ke Folder Project
+cd UjianMinggu-4
+ ## 3. Build Project dan Jalankan Test
+  * mvn clean install
+  * mvn test
 
 # Scenario Gherkin
 # Feature: Login
