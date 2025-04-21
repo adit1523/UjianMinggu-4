@@ -55,6 +55,9 @@ dengan pendekatan Behavior-Driven Development(BDD)
  ## Checkout Failed
  Menguji fitur add product, checkout dan tidak mengisi form untuk checkout.
 
+# Link
+Spreadsheet Scenario: https://docs.google.com/spreadsheets/d/1fMldpN2MnmXMNcR3pc-5LHv9hZMGey61zFuWgJnqfaY/edit?usp=sharing
+
 
 
 
